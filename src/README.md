@@ -1,0 +1,1 @@
+Core modules used as a library for Hurst computation.
